@@ -1,0 +1,6 @@
+{
+  "name": "Academic Living System - Hostel Management",
+  "description": "Comprehensive hostel management system for students and management featuring mess operations, student petition threshold workflows, room monitoring overview, leave approvals, and live attendance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
